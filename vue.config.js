@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/covid-tracker/'
+    publicPath: '/kenzo44.github.io/'
 }
